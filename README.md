@@ -5,7 +5,7 @@ Elk Playbook: https://github.com/Draftfall/Project_1/blob/main/YML/install-elk.y
 
 
 
-Diagram: 
+Diagram: https://github.com/Draftfall/Project_1/blob/main/Diagrams/Elk_Diagram.drawio.png
  
 
 
